@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Zing - Haptic Soundboard",
+  "description": "A high-performance rhythmic soundboard with physical haptic feedback and real-time visualizers. With love from GDS.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
